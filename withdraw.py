@@ -30,7 +30,7 @@ def main():
 
     return {
         'statusCode': 200,
-        'body': json.dumps('Hello from Lambda!')
+        'body': json.dumps('End of script')
     }
 
 if __name__ == "__main__":
