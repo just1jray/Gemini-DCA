@@ -24,6 +24,8 @@ https://www.gemini.com/share/axdlekncd
 Get $10 in BTC when you trade $100 after sign up.
 
 ## Setup
+USE AT YOUR OWN RISK.
+
 Create Primary API key for Gemini with fund management and trading permission.
 
 Copy the key and private key into secrets.py file.
