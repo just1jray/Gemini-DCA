@@ -5,7 +5,7 @@
 Purchase Crypto with the lowest(?) available fees by using the Gemini API.
 Achieved by placing Maker or Cancel orders just below the current price securing 0.1% fees or lower.
 
-Gemini's support for up to 10 free withdrawls per month make this method ideal for DCA or quick purchasing.
+Gemini's support for up to 10 free withdrawals per month make this method ideal for DCA or quick purchasing.
 
 ## References & Links
 
