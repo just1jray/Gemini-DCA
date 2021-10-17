@@ -1,9 +1,11 @@
 # Gemini-DCA
 
-Original code modified from: https://www.youtube.com/watch?v=h6r1h3am6kA\n
+Original code modified from: https://www.youtube.com/watch?v=h6r1h3am6kA
+
 Video includes instructions for running code on AWS rather than personal server.
 
-https://www.gemini.com/share/axdlekncd\n
+https://www.gemini.com/share/axdlekncd
+
 Get $10 in BTC when you trade $100 after sign up.
 
 ## Setup
