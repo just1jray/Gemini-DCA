@@ -20,7 +20,7 @@ def _buyCrypto(buy_size, pub_key, priv_key):
     factor = 0.999
     price = str(round(float(trader.get_ticker(symbol)['ask'])*factor,2))
 
-    amount = round((buy_size*.999)/float(price), tick_size)
+    amount = round((buy_size*.998)/float(price), tick_size)
 
     buy = trader.new_order(symbol, str(amount), price, "buy", ["maker-or-cancel"])
     print(f'Maker Buy: {buy}')
