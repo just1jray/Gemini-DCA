@@ -2,3 +2,5 @@ secrets.py
 *.log
 venv/
 __pycache__/
+.idea/
+*.json
