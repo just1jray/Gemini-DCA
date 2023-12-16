@@ -1,7 +1,7 @@
 import json
 import gemini
 import random
-import secrets
+import mysecrets
 
 public_key = secrets.public_key 
 private_key = secrets.private_key

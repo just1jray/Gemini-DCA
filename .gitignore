@@ -1,8 +1,10 @@
+mysecrets.py
 secrets.py
 *.log
 venv/
 __pycache__/
 .idea/
 *.json
+*.csv
 scheduler.sh
 

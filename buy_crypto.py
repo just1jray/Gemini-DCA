@@ -1,6 +1,6 @@
 import json
 import gemini
-import secrets
+import mysecrets
 import sys
 
 #   Usage:

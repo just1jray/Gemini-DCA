@@ -25,6 +25,11 @@ USE AT YOUR OWN RISK.
 
 Create Primary API key for Gemini with fund management and trading permission.
 
-Copy the key and private key into secrets.py file.
+Copy the key and private key into mysecrets.py file.
 
 Automate crypto DCA purchase timing using Crontab.
+
+## Logs
+Run parse_logs.py to create .json and .csv files from .log files that include the successful transaction history.
+
+These can be used to calculate cost basis in Google Sheets, Excel, or elsewhere.
